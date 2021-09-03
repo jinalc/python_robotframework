@@ -1,0 +1,10 @@
+datasources:185d1dba9e1c3087e1648c6e08c7bbfd43425606
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:b2cc0985e196b6892cdac957ae1d5a8050022bbc
+--suite Suites.DDT1
+--suite Suites.SetupTearDown
+--suite Suites.TC1
+--suite Suites.Test with tags
+--suite Suites.Userkeys
+--suite Suites.validateLoginPage

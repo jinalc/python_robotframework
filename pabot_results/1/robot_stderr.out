@@ -1,0 +1,11 @@
+[ ERROR ] Error in file 'C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\TestCases\DDT2_excel.robot' on line 4: Importing library 'DataDriver ../TestData/logindata.csv' failed: ModuleNotFoundError: No module named 'DataDriver '
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\venv\Scripts\robot.exe
+  C:\Program Files\Python38\python38.zip
+  C:\Program Files\Python38\DLLs
+  C:\Program Files\Python38\lib
+  C:\Program Files\Python38
+  c:\users\subrat_das\desktop\epam_workspace\demo_projects_for_automation_training\robot_framework\venv
+  c:\users\subrat_das\desktop\epam_workspace\demo_projects_for_automation_training\robot_framework\venv\lib\site-packages

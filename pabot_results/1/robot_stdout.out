@@ -1,0 +1,15 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.DDT2 excel                                                             
+==============================================================================
+LoginTestWithExcel using ${username} ${password}                      | FAIL |
+Test case contains no keywords.
+------------------------------------------------------------------------------
+Suites.DDT2 excel                                                     | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\pabot_results\1\output.xml

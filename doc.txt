@@ -1,0 +1,15 @@
+
+
+Settings:
+1) Importing test libraries, resource files and variable files.
+2) Defining metadata for test suites and test cases.
+
+Variables:	Defining variables that can be used elsewhere in the test data.
+
+Test Cases:	Creating test cases from available keywords.
+
+Tasks:	Creating tasks using available keywords. Single file can only contain either tests or tasks.
+
+Keywords:	Creating user keywords from existing lower-level keywords
+
+Comments:	Additional comments or data. Ignored by Robot Framework.

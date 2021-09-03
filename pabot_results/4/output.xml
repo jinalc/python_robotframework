@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.3 (Python 3.8.2 on win32)" generated="20210628 23:41:08.268" rpa="false" schemaversion="2">
+<suite id="s1" name="Suites">
+<suite id="s1-s1" name="Test with tags" source="C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\TestCases\Test_with_tags.robot">
+<test id="s1-s1-t1" name="TC-1 Smoke Test">
+<kw name="Log To Console" library="BuiltIn">
+<arg>Smoke Test is Being Run</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20210628 23:41:08.347" endtime="20210628 23:41:08.348"/>
+</kw>
+<tag>smoke</tag>
+<status status="PASS" starttime="20210628 23:41:08.346" endtime="20210628 23:41:08.348"/>
+</test>
+<test id="s1-s1-t2" name="TC-2 Regression Test">
+<kw name="Log To Console" library="BuiltIn">
+<arg>Regression Test is Being Run</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20210628 23:41:08.380" endtime="20210628 23:41:08.381"/>
+</kw>
+<tag>regression</tag>
+<status status="PASS" starttime="20210628 23:41:08.349" endtime="20210628 23:41:08.381"/>
+</test>
+<test id="s1-s1-t3" name="TC-3 Sanity Test">
+<kw name="Log To Console" library="BuiltIn">
+<arg>Sanity Test is Being Run</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20210628 23:41:08.383" endtime="20210628 23:41:08.384"/>
+</kw>
+<tag>sanity</tag>
+<status status="PASS" starttime="20210628 23:41:08.382" endtime="20210628 23:41:08.384"/>
+</test>
+<status status="PASS" starttime="20210628 23:41:08.342" endtime="20210628 23:41:08.385"/>
+</suite>
+<status status="PASS" starttime="20210628 23:41:08.293" endtime="20210628 23:41:08.387"/>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">regression</stat>
+<stat pass="1" fail="0" skip="0">sanity</stat>
+<stat pass="1" fail="0" skip="0">smoke</stat>
+</tag>
+<suite>
+<stat pass="3" fail="0" skip="0" id="s1" name="Suites">Suites</stat>
+<stat pass="3" fail="0" skip="0" id="s1-s1" name="Test with tags">Suites.Test with tags</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

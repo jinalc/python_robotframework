@@ -1,0 +1,21 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.Test with tags                                                         
+==============================================================================
+TC-1 Smoke Test                                                       Smoke Test is Being Run
+| PASS |
+------------------------------------------------------------------------------
+TC-2 Regression Test                                                  Regression Test is Being Run
+| PASS |
+------------------------------------------------------------------------------
+TC-3 Sanity Test                                                      Sanity Test is Being Run
+| PASS |
+------------------------------------------------------------------------------
+Suites.Test with tags                                                 | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\pabot_results\4\output.xml

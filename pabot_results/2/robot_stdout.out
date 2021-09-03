@@ -1,0 +1,29 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.SetupTearDown                                                          
+==============================================================================
+Opening Browser
+TC-1 Get Info                                                         Login to Application
+Get information
+Logout From Application
+| PASS |
+------------------------------------------------------------------------------
+TC-2 Get Details                                                      Login to Application
+Get All Details
+Logout From Application
+| PASS |
+------------------------------------------------------------------------------
+TC-3 Find Details                                                     Login to Application
+Find All Details
+Logout From Application
+| PASS |
+------------------------------------------------------------------------------
+Closing Browser
+Suites.SetupTearDown                                                  | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Output:  C:\Users\Subrat_Das\Desktop\EPAM_WorkSpace\DEMO_PROJECTS_FOR_AUTOMATION_TRAINING\Robot_Framework\pabot_results\2\output.xml
